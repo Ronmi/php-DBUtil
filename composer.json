@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Corneltek\\DBUtil": "src"
+            "CornelTek\\DBUtil": "src"
         }
     },
     "version": "1.0.3"
